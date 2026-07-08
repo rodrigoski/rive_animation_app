@@ -15,7 +15,7 @@ class _LoginScreenState extends State<LoginScreen> {
       body: SafeArea(
         child: Column(         
           children: [
-            Expanded(child: RiveAnimation.asset('animated_login_bear.riv')),
+            Expanded(child: RiveAnimation.asset('assets/3645-7621-remix-of-login-machine.riv')),
           ],
         ),
       ),
